@@ -11,4 +11,6 @@ Some actions:
 * Project details
 * Developer profile. And many more...
 
+*More features will be added.
+
 Finally Thanks **Dennis Ivanov** for such a wonderful tutorial.
